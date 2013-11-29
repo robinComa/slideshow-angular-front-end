@@ -1,0 +1,14 @@
+{
+    "title" : "Responsive Design",
+    "maxLeft" : 3,
+    "sections" : [
+        {
+            "title" : "HTML5 Presentation",
+            "content" : "views/00-Intro.html"
+        },
+        {
+            "title" : "HTML5 Presentation",
+            "content" : "views/00-Intro.html"
+        }
+    ]
+}

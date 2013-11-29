@@ -1,0 +1,28 @@
+<div class="hidden-phone">
+
+    <i class="logo-round-big"></i>
+
+    <h4>{{title}}</h4>
+
+    <div class="list-group">
+        <a ng-click="beforeActiveFn()" href="" ng-show="hasBefore()" class="list-group-item">
+            <span ng-hide="afterActive || beforeActive">...</span>
+            <i ng-show="afterActive || beforeActive" class="icon-custom-move-bottom"></i>
+        </a>
+        <a ng-show="isShow($index)" href="" ng-click="navigate($index)" ng-repeat="section in getAllSections()" class="list-group-item" ng-class="{'active': isActive($index)}">
+            <p ng-class="{'done':isDone($index)}">
+                <strong ng-hide="section.isSubSection">
+                    {{getTitle($index)}}
+                </strong>
+                <i ng-show="section.isSubSection">
+                    {{getTitle($index)}}
+                </i>
+            </p>
+        </a>
+        <a ng-click="afterActiveFn()" href="" ng-show="hasAfter()" class="list-group-item">
+            <span ng-hide="afterActive || beforeActive">...</span>
+            <i ng-show="afterActive || beforeActive" class="icon-custom-move-top"></i>
+        </a>
+    </div>
+
+</div>

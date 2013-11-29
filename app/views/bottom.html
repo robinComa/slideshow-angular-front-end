@@ -1,0 +1,17 @@
+<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
+
+    <div>
+        <ul class="pagination">
+            <li ng-class="{'disabled':$first}">
+                <a href="" ng-click="navigateLeft()">&laquo;</a>
+            </li>
+            <li ng-show="showPaginationLink($index)" ng-repeat="section in getAllSections()" ng-class="{'active': isActive($index)}">
+                <a href="" ng-click="navigate($index)">{{$index+1}}</a>
+            </li>
+            <li ng-class="{'disabled':$last}">
+                <a href="" ng-click="navigateRight()">&raquo;</a>
+            </li>
+        </ul>
+    </div>
+
+</div>

@@ -1,0 +1,60 @@
+div.slides{
+    width: 100%;
+    zoom: normal;
+}
+
+div.reveal{
+    background-color: #f2f2f2;
+    width: 100%;
+    zoom : normal;
+}
+
+section{
+    background: #ffffff url(../../img/sqli-background.jpg) no-repeat right bottom;
+    border-radius: 10px;
+    height: 95%;
+    zoom: normal;
+}
+
+div.left{
+    padding: 1%;
+    transform:perspective(600px) rotateY( 70deg );
+    -ms-transform:perspective(600px) rotateY( 70deg );
+    -webkit-transform:perspective(600px) rotateY( 70deg );
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border:3px solid black;
+    padding-bottom: 80px;
+    background-image: url(../../img/sqli-corner.jpeg), -moz-linear-gradient(30deg, #ffffff, #f5f5f5);
+    background-image: url(../../img/sqli-corner.jpeg), -webkit-linear-gradient(30deg, #ffffff, #f5f5f5);
+    background-image: url(../../img/sqli-corner.jpeg), -o-linear-gradient(30deg, #ffffff, #f5f5f5);
+    background-image: url(../../img/sqli-corner.jpeg), linear-gradient(30deg, #ffffff, #f5f5f5);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+div.left img{
+    border:1px solid black;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+div.content{
+    height: 100%;
+    width: 96%;
+    zoom : 120%
+}
+
+div.bottom{
+    bottom: 0px;
+    position: fixed;
+    width: 80%;
+}
+
+.done{
+    text-decoration: line-through;
+}
