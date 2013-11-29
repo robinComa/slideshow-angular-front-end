@@ -1,6 +1,7 @@
 # What is it?
 This is an HTML5 presentation with reveal.js and AngularJS.
 /app/presentation-config.json:
+
     {
         "title" : "Responsive Design",
         "maxLeft" : 3,
@@ -17,9 +18,7 @@ This is an HTML5 presentation with reveal.js and AngularJS.
                         "title" : "Sub title 1",
                         "content" : "views/page1-1.html"
                     },
-
                     ...
-
                 ]
             }
         ]
@@ -27,5 +26,6 @@ This is an HTML5 presentation with reveal.js and AngularJS.
 
 # Get started
 Yeoman is mandatory (node.js + bower + grunt + yo + compass + ruby)
+
     npm install
     bower install
