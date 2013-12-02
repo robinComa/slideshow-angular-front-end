@@ -49,6 +49,6 @@
   },
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/sqli/HTML5-presentation.git"
+    "url" : "https://github.com/sqli/slideshow-angular.git"
   }
 }
