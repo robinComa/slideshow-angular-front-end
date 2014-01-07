@@ -1,0 +1,45 @@
+<div class="col-xs-6">
+    <a href="http://visionmedia.github.io/mocha/" target="_blank">
+        <img src="img/05-02-Mocha.png" alt="Mocha Logo" class="img-responsive col-xs-12">
+    </a>
+    <p>
+        Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun
+    </p>
+</div>
+
+<div class="col-xs-6">
+    <h1>Why ?</h1>
+
+    <ul>
+        <li>Units tests</li>
+        <li>Running on Node.js</li>
+        <li>Running with Grunt tasks</li>
+        <li>Asynchronous mode</li>
+    </ul>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>var assert = require("assert")
+describe('Array', function(){
+    describe('#indexOf()', function(){
+        it('should return -1 when the value is not present', function(){
+            assert.equal(-1, [1,2,3].indexOf(5));
+            assert.equal(-1, [1,2,3].indexOf(0));
+        })
+    })
+})</code></pre>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>describe('User', function(){
+    describe('#save()', function(){
+        it('should save without error', function(done){
+            var user = new User('Luna');
+            user.save(function(err){
+            if (err) throw err;
+                done();
+            });
+        })
+    })
+})</code></pre>
+</div>

@@ -1,0 +1,26 @@
+<h1>Unit Tests <small>Individual testing of source code</small></h1>
+
+<p>
+    <b>Dependencies should be test independently and mocked in the function!</b>
+</p>
+
+<h1>E2E Tests <small>Test application globally</small></h1>
+
+<div class="row">
+    <img src="img/05-00-Tests-E2E.png" alt="E2E Tests" class="img-responsive col-xs-4"/>
+
+    <div class="col-xs-8">
+
+        <p>End-to-end testing is a methodology used to test whether the flow of an application is performing as designed from start to finish.</p>
+
+        <pre><code>describe('Buzz Client', function() {
+    it('should filter results', function() {
+        input('user').enter('jacksparrow');
+        element(':button').click();
+        expect(repeater('ul li').count()).toEqual(10);
+        input('filterText').enter('Bees');
+        expect(repeater('ul li').count()).toEqual(1);
+    });
+});</code></pre>
+    </div>
+</div>

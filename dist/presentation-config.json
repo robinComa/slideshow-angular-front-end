@@ -51,10 +51,6 @@
                     "content" : "views/02-02-00-CSS3.html",
                     "sections" : [
                         {
-                            "title" : "CSS3 Overview",
-                            "content" : "views/02-02-01-CSS3-overview.html"
-                        },
-                        {
                             "title" : "CSS3 Samples",
                             "content" : "views/02-02-02-CSS3-samples.html"
                         },
@@ -179,7 +175,7 @@
                     ]
                 },
                 {
-                    "title" : "Cordava",
+                    "title" : "Cordova",
                     "content" : "views/04-07-Cordova.html"
                 }
             ]
@@ -225,12 +221,12 @@
             ]
         },
         {
-            "title" : "Contact",
-            "content" : "views/00-Contact.html"
-        },
-        {
             "title" : "Conclusion",
             "content" : "views/00-Conclusion.html"
+        },
+        {
+            "title" : "Contact",
+            "content" : "views/00-Contact.html"
         }
     ]
 }

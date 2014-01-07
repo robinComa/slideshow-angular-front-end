@@ -1,0 +1,36 @@
+<div class="col-xs-6">
+    <a href="http://lesscss.org/" target="_blank">
+        <img src="img/04-06-01-LESS.png" alt="LESS Logo" class="img-responsive col-xs-12">
+    </a>
+    <p>
+        LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions.
+    </p>
+</div>
+
+<div class="col-xs-6">
+    <h1>Why ?</h1>
+
+    <ul>
+        <li>Run on server side</li>
+        <li>Compiled Languages</li>
+        <li>Extends CSS languages</li>
+    </ul>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>@base: #f938ab;
+
+.box-shadow(@style, @c) when (iscolor(@c)) {
+    -webkit-box-shadow: @style @c;
+    -moz-box-shadow:    @style @c;
+    box-shadow:         @style @c;
+}
+.box-shadow(@style, @alpha: 50%) when (isnumber(@alpha)) {
+    .box-shadow(@style, rgba(0, 0, 0, @alpha));
+}
+.box {
+    color: saturate(@base, 5%);
+    border-color: lighten(@base, 30%);
+    div { .box-shadow(0 0 5px, 30%) }
+}</code></pre>
+</div>

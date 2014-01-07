@@ -22,26 +22,7 @@
     <favorites_list name="HTML5-presentation" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="presentation-config_old.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="17" selection-start="0" selection-end="8380" vertical-scroll-proportion="-11.653846" vertical-offset="3182" max-vertical-offset="4097">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="presentation-config.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="1" selection-start="8380" selection-end="8380" vertical-scroll-proportion="0.9617548" vertical-offset="3140" max-vertical-offset="4097">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -51,30 +32,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/03-05-jQuery-UI.html" />
-        <option value="$PROJECT_DIR$/app/views/03-06-Bootstrap.html" />
-        <option value="$PROJECT_DIR$/app/views/03-07-Foundation.html" />
-        <option value="$PROJECT_DIR$/app/views/03-08-Modernizr.html" />
-        <option value="$PROJECT_DIR$/app/styles/template/grid.css" />
-        <option value="$PROJECT_DIR$/app/styles/main.scss" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/app/views/06-00-Remote-Data.html" />
-        <option value="$PROJECT_DIR$/app/views/06-02-RESTful.html" />
         <option value="$PROJECT_DIR$/app/presentation-config_old.json" />
-        <option value="$PROJECT_DIR$/app/views/06-01-REST.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/views/02-01-02-HTML5-samples.html" />
         <option value="$PROJECT_DIR$/app/views/06-02-Java-Stack.html" />
-        <option value="$PROJECT_DIR$/app/views/06-05-Firebase.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/06-03-Firebase.html" />
+        <option value="$PROJECT_DIR$/app/views/00-Contact.html" />
+        <option value="$PROJECT_DIR$/app/views/04-01-NodeJS.html" />
+        <option value="$PROJECT_DIR$/app/views/04-02-Grunt.html" />
+        <option value="$PROJECT_DIR$/app/views/04-03-Bower.html" />
+        <option value="$PROJECT_DIR$/app/views/04-04-Yo.html" />
+        <option value="$PROJECT_DIR$/app/views/04-05-01-CoffeeScript.html" />
+        <option value="$PROJECT_DIR$/app/views/04-05-02-TypeScript.html" />
+        <option value="$PROJECT_DIR$/app/views/04-06-01-LESS.html" />
+        <option value="$PROJECT_DIR$/app/views/04-06-02-SASS.html" />
+        <option value="$PROJECT_DIR$/app/views/04-07-Cordova.html" />
         <option value="$PROJECT_DIR$/app/presentation-config.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -150,6 +131,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5-presentation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slideshow-angular-front-end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,19 +281,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14074855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30305287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -316,112 +315,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/styles/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/left.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="29" selection-start="3492" selection-end="3492" vertical-scroll-proportion="-9.574803" vertical-offset="10195" max-vertical-offset="11084">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/template/controls.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="491" selection-end="508" vertical-scroll-proportion="0.27868852" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/template/grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.18579236" vertical-offset="0" max-vertical-offset="1105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="50" selection-start="111" selection-end="111" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="260" column="11" selection-start="6637" selection-end="6637" vertical-scroll-proportion="0.17592593" vertical-offset="4268" max-vertical-offset="6664">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/06-00-Remote-Data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="262" selection-end="356" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/img/03-07-Foundation-social.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/03-05-jQuery-UI.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="75" selection-end="174" vertical-scroll-proportion="0.038812786" vertical-offset="0" max-vertical-offset="876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/06-02-Java-Stack.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="889">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/06-01-REST.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="57" selection-start="384" selection-end="384" vertical-scroll-proportion="0.097031966" vertical-offset="0" max-vertical-offset="876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/03-03-Angular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="0" selection-end="1655" vertical-scroll-proportion="0.44634703" vertical-offset="0" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="42" selection-start="3174" selection-end="3174" vertical-scroll-proportion="0.50281215" vertical-offset="607" max-vertical-offset="1496">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/06-03-Firebase.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1216" selection-end="1373" vertical-scroll-proportion="0.71803653" vertical-offset="0" max-vertical-offset="876">
+        <state line="46" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.88740456" vertical-offset="317" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
+    <entry file="file://$PROJECT_DIR$/app/views/03-01-jQuery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="17" selection-start="0" selection-end="8380" vertical-scroll-proportion="-11.653846" vertical-offset="3182" max-vertical-offset="4097">
+        <state line="13" column="33" selection-start="0" selection-end="1034" vertical-scroll-proportion="0.42175573" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-06-00-CSS-Overlay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="542">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-01-NodeJS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="8" selection-start="925" selection-end="925" vertical-scroll-proportion="0.5944334" vertical-offset="160" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-02-Grunt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="86" selection-start="160" selection-end="160" vertical-scroll-proportion="0.065891474" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="338" selection-end="382" vertical-scroll-proportion="0.49418604" vertical-offset="0" max-vertical-offset="516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-03-Bower.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="963" selection-end="963" vertical-scroll-proportion="0.8986083" vertical-offset="177" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-04-Yo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="80" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0648855" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-05-01-CoffeeScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="341" selection-end="481" vertical-scroll-proportion="0.12662943" vertical-offset="136" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-05-02-TypeScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.7467412" vertical-offset="449" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-06-01-LESS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="359" selection-end="423" vertical-scroll-proportion="0.41154563" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-06-02-SASS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="14" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.84171325" vertical-offset="296" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/04-07-Cordova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="849" selection-end="849" vertical-scroll-proportion="0.39851025" vertical-offset="296" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="1" selection-start="8380" selection-end="8380" vertical-scroll-proportion="0.9617548" vertical-offset="3140" max-vertical-offset="4097">
+        <state line="231" column="1" selection-start="8196" selection-end="8196" vertical-scroll-proportion="0.93668526" vertical-offset="3424" max-vertical-offset="4029">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="20" selection-start="0" selection-end="8196" vertical-scroll-proportion="0.3482309" vertical-offset="2006" max-vertical-offset="4029">
           <folding />
         </state>
       </provider>

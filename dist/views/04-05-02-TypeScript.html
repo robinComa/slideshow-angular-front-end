@@ -1,0 +1,54 @@
+<div class="row">
+    <div class="col-xs-6">
+        <a href="http://www.typescriptlang.org/" target="_blank">
+            <img src="img/04-05-02-TypeScript.png" alt="TypeScript Logo" class="img-responsive col-xs-12">
+        </a>
+        <p>
+            TypeScript is a language for application-scale JavaScript development.
+            TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+            Any browser. Any host. Any OS. Open Source.
+        </p>
+    </div>
+
+    <div class="col-xs-6">
+        <h1>Why ?</h1>
+
+        <ul>
+            <li>More simple</li>
+            <li>Compiled Language</li>
+            <li>More expressive</li>
+            <li>More Object</li>
+        </ul>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+    <pre><code>class Greeter {
+    greeting: string;
+    constructor(message: string) {
+        this.greeting = message;
+    }
+    greet() {
+        return "Hello, " + this.greeting;
+    }
+}
+
+var greeter = new Greeter("world");</code></pre>
+    </div>
+
+    <div class="col-xs-12">
+    <pre><code>var Greeter = (function () {
+    function Greeter(message) {
+        this.greeting = message;
+    }
+    Greeter.prototype.greet = function () {
+        return "Hello, " + this.greeting;
+    };
+    return Greeter;
+})();
+
+var greeter = new Greeter("world");</code></pre>
+
+    </div>
+</div>

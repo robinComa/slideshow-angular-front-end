@@ -1,0 +1,46 @@
+<div class="col-xs-6">
+    <a href="http://phantomjs.org/" target="_blank">
+        <img src="img/05-04-Phantomjs.png" alt="Phantomjs Logo" class="img-responsive col-xs-12">
+    </a>
+    <p class="col-xs-12">
+        Full web stack. No browser required.
+        <br>
+        <b>Like a real browser</b>
+    </p>
+</div>
+
+<div class="col-xs-6">
+    <h1>Why ?</h1>
+
+    <ul>
+        <li>Headless website testing</li>
+        <li>Screen capture</li>
+        <li>Page automation</li>
+        <li>Network monitoring</li>
+        <li>Continuous integration</li>
+    </ul>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>var feature, supported = [], unsupported = [];
+
+phantom.injectJs('modernizr.js');
+console.log('Detected features (using Modernizr ' + Modernizr._version + '):');
+for (feature in Modernizr) {
+    if (Modernizr.hasOwnProperty(feature)) {
+        if (feature[0] !== '_' && typeof Modernizr[feature] !== 'function' &&
+            feature !== 'input' && feature !== 'inputtypes') {
+            if (Modernizr[feature]) {
+                supported.push(feature);
+            } else {
+                unsupported.push(feature);
+            }
+        }
+    }
+}
+
+console.log('Supported:', supported);
+console.log('Unsupported:', unsupported);
+
+phantom.exit();</code></pre>
+</div>

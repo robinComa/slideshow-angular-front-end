@@ -1,0 +1,41 @@
+<div class="col-xs-6">
+    <a href="http://nodejs.org/" target="_blank">
+        <img src="img/04-01-Node.png" alt="Node.js Logo" class="img-responsive col-xs-12"/>
+    </a>
+    <p>
+        Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+    </p>
+</div>
+
+<div class="col-xs-6">
+    <h1>Why ?</h1>
+
+    <ul>
+        <li>JavaScript Server</li>
+        <li>Scalable</li>
+        <li>Light</li>
+        <li>Grunt environment</li>
+    </ul>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>var http = require('http');
+
+http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+    res.end('Hello World\n');
+}).listen(1337, '127.0.0.1');
+
+console.log('Server running at http://127.0.0.1:1337/');</code></pre>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>var net = require('net');
+
+var server = net.createServer(function (socket) {
+    socket.write('Echo server\r\n');
+    socket.pipe(socket);
+});
+
+server.listen(1337, '127.0.0.1');</code></pre>
+</div>

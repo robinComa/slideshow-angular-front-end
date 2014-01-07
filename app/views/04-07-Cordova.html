@@ -1,0 +1,47 @@
+<div class="col-xs-6">
+    <a href="http://cordova.apache.org/" target="_blank">
+        <img src="img/04-07-Cordova.png" alt="Cordova Logo" class="img-responsive col-xs-12"/>
+    </a>
+    <p>
+        Apache Cordova is a platform
+        for building native mobile
+        applications using HTML, CSS
+        and JavaScript
+    </p>
+</div>
+
+<div class="col-xs-6">
+    <h1>Why ?</h1>
+
+    <ul>
+        <li>Cross Mobile Platform</li>
+        <li>Web world (HTML, CSS, JavaScript)</li>
+        <li>Hardware Access</li>
+        <li>JavaScript API for Hardware behaviours</li>
+    </ul>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>navigator.camera.getPicture( cameraSuccess, cameraError, [ cameraOptions ] );</code></pre>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>var contact = navigator.contacts.create(properties);</code></pre>
+</div>
+
+<div class="col-xs-12">
+    <pre><code>function win(file) {
+    var reader = new FileReader();
+    reader.onloadend = function (evt) {
+        console.log("read success");
+        console.log(evt.target.result);
+    };
+    reader.readAsDataURL(file);
+};
+
+var fail = function (error) {
+    console.log(error.code);
+};
+
+entry.file(win, fail);</code></pre>
+</div>
