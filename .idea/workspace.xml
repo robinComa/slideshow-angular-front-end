@@ -23,55 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="56" selection-start="2467" selection-end="2467" vertical-scroll-proportion="-25.038462" vertical-offset="165" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="346" column="21" selection-start="0" selection-end="8982" vertical-scroll-proportion="-2.27451" vertical-offset="5766" max-vertical-offset="6630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grid.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/template/grid.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="9" selection-start="0" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reveal.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/template/reveal.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="83" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="45" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.631694" vertical-offset="0" max-vertical-offset="1802">
+            <state line="271" column="20" selection-start="6919" selection-end="6919" vertical-scroll-proportion="0.3923611" vertical-offset="4268" max-vertical-offset="6647">
               <folding />
             </state>
           </provider>
@@ -463,13 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="56" selection-start="2467" selection-end="2467" vertical-scroll-proportion="-25.038462" vertical-offset="165" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/template/controls.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="32" selection-start="0" selection-end="1515" vertical-scroll-proportion="0.315847" vertical-offset="0" max-vertical-offset="915">
@@ -477,23 +425,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="346" column="21" selection-start="0" selection-end="8982" vertical-scroll-proportion="-2.27451" vertical-offset="5766" max-vertical-offset="6630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/template/grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="9" selection-start="0" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/template/reveal.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="83" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+        <state line="28" column="0" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.52021855" vertical-offset="0" max-vertical-offset="1802">
           <folding />
         </state>
       </provider>
@@ -505,9 +439,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+    <entry file="file://$PROJECT_DIR$/app/styles/template/reveal.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="45" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.631694" vertical-offset="0" max-vertical-offset="1802">
+        <state line="6" column="83" selection-start="224" selection-end="224" vertical-scroll-proportion="0.11308204" vertical-offset="0" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/template/grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="9" selection-start="0" selection-end="1542" vertical-scroll-proportion="0.33442622" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="56" selection-start="2467" selection-end="2467" vertical-scroll-proportion="0.7322835" vertical-offset="165" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="271" column="20" selection-start="6919" selection-end="6919" vertical-scroll-proportion="0.3923611" vertical-offset="4268" max-vertical-offset="6647">
           <folding />
         </state>
       </provider>
