@@ -40,9 +40,35 @@
         </div>
     </div>
 
+        <script src="bower_components/jquery/jquery.min.js"></script>
         <script src="bower_components/angular/angular.js"></script>
         <script src="bower_components/angular-resource/angular-resource.js"></script>
+        <script src="https://cdn.firebase.com/v0/firebase.js"></script>
 
         <script src="scripts/scripts.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            setTimeout(function(){
+                var myDataRef = new Firebase('https://rcomadelperier.firebaseio.com/');
+                $('#messageInput').keypress(function (e) {
+                    if (e.keyCode == 13) {
+                        var name = $('#nameInput').val();
+                        var text = $('#messageInput').val();
+                        myDataRef.set({name: name, text: text});
+                    }
+                });
+                myDataRef.on('value', function(snapshot) {
+                    if(snapshot.val() !== null) {
+                        var data = snapshot.val();
+                        $('#nameInput').val(data.name);
+                        $('#messageInput').val(data.text);
+                    }
+                });
+            }, 1000);
+
+        });
+
+    </script>
 </body>
 </html>

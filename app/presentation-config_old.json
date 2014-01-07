@@ -215,16 +215,12 @@
                     "content" : "views/06-01-REST.html"
                 },
                 {
-                    "title" : "RESTful",
-                    "content" : "views/06-02-RESTful.html"
-                },
-                {
                     "title" : "Java Stack",
-                    "content" : "views/06-03-Java-Stack.html"
+                    "content" : "views/06-02-Java-Stack.html"
                 },
                 {
                     "title" : "Cloud service : Firebase",
-                    "content" : "views/06-04-Firebase.html"
+                    "content" : "views/06-03-Firebase.html"
                 }
             ]
         },

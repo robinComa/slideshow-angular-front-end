@@ -3,6 +3,96 @@
     "maxLeft" : 5,
     "sections" : [
         {
+            "title" : "A new profession: \"Front-end web developer\"",
+            "content" : "views/00-First.html"
+        },
+        {
+            "title" : "Introduction",
+            "content" : "views/00-Intro.html"
+        },
+        {
+            "title" : "History",
+            "content" : "views/01-00-History.html",
+            "sections" : [
+                {
+                    "title" : "Java job Vs Front End job",
+                    "content" : "views/01-01-Google-trends.html"
+                }
+            ]
+        },
+        {
+            "title" : "HTML5 / CSS3 / JavaScript",
+            "content" : "views/02-00-HTML5-CSS3-JavaScript.html",
+            "sections" : [
+                {
+                    "title" : "HTML5",
+                    "content" : "views/02-01-00-HTML5.html",
+                    "sections" : [
+                        {
+                            "title" : "HTML5 Overview",
+                            "content" : "views/02-01-01-HTML5-overview.html"
+                        },
+                        {
+                            "title" : "HTML5 Samples",
+                            "content" : "views/02-01-02-HTML5-samples.html"
+                        },
+                        {
+                            "title" : "HTML5 Limits",
+                            "content" : "views/02-01-02-HTML5-limits.html"
+                        },
+                        {
+                            "title" : "HTML5 Links",
+                            "content" : "views/02-01-03-HTML5-links.html"
+                        }
+                    ]
+                },
+                {
+                    "title" : "CSS3",
+                    "content" : "views/02-02-00-CSS3.html",
+                    "sections" : [
+                        {
+                            "title" : "CSS3 Overview",
+                            "content" : "views/02-02-01-CSS3-overview.html"
+                        },
+                        {
+                            "title" : "CSS3 Samples",
+                            "content" : "views/02-02-02-CSS3-samples.html"
+                        },
+                        {
+                            "title" : "CSS3 Limits",
+                            "content" : "views/02-02-03-CSS3-limits.html"
+                        },
+                        {
+                            "title" : "CSS3 Links",
+                            "content" : "views/02-02-04-CSS3-links.html"
+                        }
+                    ]
+                },
+                {
+                    "title" : "JavaScript",
+                    "content" : "views/02-03-00-JavaScript.html",
+                    "sections" : [
+                        {
+                            "title" : "JavaScript Overview",
+                            "content" : "views/02-03-01-JavaScript-overview.html"
+                        },
+                        {
+                            "title" : "JavaScript Samples",
+                            "content" : "views/02-03-02-JavaScript-samples.html"
+                        },
+                        {
+                            "title" : "JavaScript Limits",
+                            "content" : "views/02-03-03-JavaScript-limits.html"
+                        },
+                        {
+                            "title" : "JavaScript Links",
+                            "content" : "views/02-03-04-JavaScript-links.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "title" : "HTML5 / CSS3 / JavaScript \"Frameworks\"",
             "content" : "views/03-00-Frameworks.html",
             "sections" : [
@@ -39,6 +129,108 @@
                     "content" : "views/03-08-Modernizr.html"
                 }
             ]
+        },
+        {
+            "title" : "Development Tools",
+            "content" : "views/04-00-Development-tools.html",
+            "sections" : [
+                {
+                    "title" : "Node.js",
+                    "content" : "views/04-01-NodeJS.html"
+                },
+                {
+                    "title" : "Grunt",
+                    "content" : "views/04-02-Grunt.html"
+                },
+                {
+                    "title" : "Bower",
+                    "content" : "views/04-03-Bower.html"
+                },
+                {
+                    "title" : "Yo",
+                    "content" : "views/04-04-Yo.html"
+                },
+                {
+                    "title" : "JavaScript Overlay",
+                    "content" : "views/04-05-00-JavaScript-Overlay.html",
+                    "sections" : [
+                        {
+                            "title" : "CoffeeScript",
+                            "content" : "views/04-05-01-CoffeeScript.html"
+                        },
+                        {
+                            "title" : "TypeScript",
+                            "content" : "views/04-05-02-TypeScript.html"
+                        }
+                    ]
+                },
+                {
+                    "title" : "CSS Overlay",
+                    "content" : "views/04-06-00-CSS-Overlay.html",
+                    "sections" : [
+                        {
+                            "title" : "LESS",
+                            "content" : "views/04-06-01-LESS.html"
+                        },
+                        {
+                            "title" : "SASS",
+                            "content" : "views/04-06-02-SASS.html"
+                        }
+                    ]
+                },
+                {
+                    "title" : "Cordava",
+                    "content" : "views/04-07-Cordova.html"
+                }
+            ]
+        },
+        {
+            "title" : "Tests",
+            "content" : "views/05-00-Tests.html",
+            "sections" : [
+                {
+                    "title" : "Jasmine",
+                    "content" : "views/05-01-Jasmine.html"
+                },
+                {
+                    "title" : "Mocha",
+                    "content" : "views/05-02-Mocha.html"
+                },
+                {
+                    "title" : "Karma",
+                    "content" : "views/05-03-Karma.html"
+                },
+                {
+                    "title" : "PhantomJS",
+                    "content" : "views/05-04-PhantomJS.html"
+                }
+            ]
+        },
+        {
+            "title" : "Remote Data",
+            "content" : "views/06-00-Remote-Data.html",
+            "sections" : [
+                {
+                    "title" : "REST",
+                    "content" : "views/06-01-REST.html"
+                },
+                {
+                    "title" : "Java Stack",
+                    "content" : "views/06-02-Java-Stack.html"
+                },
+                {
+                    "title" : "Cloud service : Firebase",
+                    "content" : "views/06-03-Firebase.html"
+                }
+            ]
+        },
+        {
+            "title" : "Contact",
+            "content" : "views/00-Contact.html"
+        },
+        {
+            "title" : "Conclusion",
+            "content" : "views/00-Conclusion.html"
         }
     ]
 }
