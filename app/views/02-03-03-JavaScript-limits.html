@@ -1,0 +1,16 @@
+<div>
+    <pre><code>//Is supported by current browser?
+var myWorker = new Worker("my_task.js"); //window.Worker???
+
+myWorker.onmessage = function (oEvent) {
+    console.log("Called back by the worker!\n");
+};</code></pre>
+</div>
+
+<img src="../img/02-01-02-HTML5-limits.png" alt="HTML5 Browsers stats" class="img-responsive col-xs-12"/>
+
+
+<h1>How shall we do it?</h1>
+
+<img src="../img/02-01-02-HTML5-limits-modernizr.png" alt="HTML5 Limits Modernizr" class="img-responsive col-xs-12 rotate-inverse"/>
+

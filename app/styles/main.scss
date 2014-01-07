@@ -1,3 +1,24 @@
 @import 'variables';
 @import 'sass-bootstrap/lib/bootstrap';
 @import 'sass-bootstrap/lib/responsive-utilities';
+
+ul
+{
+  list-style-image: url('../img/sqlic-picto-cross.png');
+}
+
+code{
+  font-size: 14px!important;
+}
+
+.rotate{
+  transform:rotate(7deg);
+  -ms-transform:rotate(7deg); /* IE 9 */
+  -webkit-transform:rotate(7deg); /* Safari and Chrome */
+}
+
+.rotate-inverse{
+  transform:rotate(-7deg);
+  -ms-transform:rotate(-7deg); /* IE 9 */
+  -webkit-transform:rotate(-7deg); /* Safari and Chrome */
+}

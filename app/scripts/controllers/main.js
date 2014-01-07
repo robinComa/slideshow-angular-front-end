@@ -8,11 +8,16 @@ angular.module('HTML5PresentationApp')
 
         $scope.getAllSections = function(){
             if(sections.length == 0){
+                //TODO recursive
                 for (var i in $scope.sections){
                     sections.push($scope.sections[i]);
                     for(var j in $scope.sections[i].sections){
                         $scope.sections[i].sections[j].isSubSection = true;
                         sections.push($scope.sections[i].sections[j]);
+                        for(var k in $scope.sections[i].sections[j].sections){
+                            $scope.sections[i].sections[j].sections[k].isSubSection = true;
+                            sections.push($scope.sections[i].sections[j].sections[k]);
+                        }
                     }
                 }
             }

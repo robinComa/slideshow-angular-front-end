@@ -1,0 +1,60 @@
+<div class="row">
+    <div class="col-xs-6">
+        <h1>Object</h1>
+        <div>
+    <pre><code>var object = {
+    attr1 : 'String attr',
+    attr2 : {
+        subAttr : 2
+    }
+    fn1 : function(){
+        return true
+    }
+}</code></pre>
+        </div>
+    </div>
+
+    <div class="col-xs-6">
+        <h1>Closure</h1>
+        <div>
+    <pre><code>var closure = function() {
+    var count = 0;
+    return function () {
+        return ++count;
+    };
+}
+var inc = closure();
+inc(); // returns 1
+inc(); // returns 2
+inc(); // returns 3</code></pre>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-6">
+        <h1>Variadic function</h1>
+        <div>
+    <pre><code>var sum = function() {
+var i, x = 0;
+for (i = 0; i &#x3C; arguments.length; ++i) {
+    x += arguments[i];
+}
+    return x;
+}
+sum(1, 2, 3); // returns 6</code></pre>
+        </div>
+    </div>
+
+    <div class="col-xs-6">
+        <h1>DOM Manipulation</h1>
+        <div>
+    <pre><code>document.body.appendChild(
+    document.createTextNode(
+        'Hello World!'
+    )
+);
+    </code></pre>
+        </div>
+    </div>
+</div>

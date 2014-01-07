@@ -1,14 +1,44 @@
 {
-    "title" : "Responsive Design",
-    "maxLeft" : 3,
+    "title" : "A new profession: \"Front-end web developer\"",
+    "maxLeft" : 5,
     "sections" : [
         {
-            "title" : "HTML5 Presentation",
-            "content" : "views/00-Intro.html"
-        },
-        {
-            "title" : "HTML5 Presentation",
-            "content" : "views/00-Intro.html"
+            "title" : "HTML5 / CSS3 / JavaScript \"Frameworks\"",
+            "content" : "views/03-00-Frameworks.html",
+            "sections" : [
+                {
+                    "title" : "jQuery",
+                    "content" : "views/03-01-jQuery.html"
+                },
+                {
+                    "title" : "Backbone.js",
+                    "content" : "views/03-02-Backbone.html"
+                },
+                {
+                    "title" : "Angular.js",
+                    "content" : "views/03-03-Angular.html"
+                },
+                {
+                    "title" : "Ember.js",
+                    "content" : "views/03-04-Ember.html"
+                },
+                {
+                    "title" : "jQuery UI",
+                    "content" : "views/03-05-jQuery-UI.html"
+                },
+                {
+                    "title" : "Bootstrap",
+                    "content" : "views/03-06-Bootstrap.html"
+                },
+                {
+                    "title" : "Foundation",
+                    "content" : "views/03-07-Foundation.html"
+                },
+                {
+                    "title" : "Modernizr",
+                    "content" : "views/03-08-Modernizr.html"
+                }
+            ]
         }
     ]
 }
