@@ -23,37 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="presentation-config_old.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="38" selection-start="0" selection-end="8517" vertical-scroll-proportion="-7.1923075" vertical-offset="1496" max-vertical-offset="4165">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="presentation-config.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="0" selection-end="1410" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="833">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="32" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-19.5" vertical-offset="139" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02-03-02-JavaScript-samples.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/02-03-02-JavaScript-samples.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="20" selection-start="749" selection-end="749" vertical-scroll-proportion="0.5736783" vertical-offset="153" max-vertical-offset="1156">
+            <state line="363" column="27" selection-start="8682" selection-end="8687" vertical-scroll-proportion="0.46875" vertical-offset="5766" max-vertical-offset="6630">
               <folding />
             </state>
           </provider>
@@ -69,8 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/02-03-04-JavaScript-links.html" />
-        <option value="$PROJECT_DIR$/app/views/02-03-01-JavaScript-overview.html" />
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/app/views/03-00-Frameworks.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
@@ -85,6 +56,8 @@
         <option value="$PROJECT_DIR$/app/presentation-config.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/views/02-03-02-JavaScript-samples.html" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -149,7 +122,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -164,10 +137,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,20 +245,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="53" selection-start="171" selection-end="171" vertical-scroll-proportion="0.11805555" vertical-offset="0" max-vertical-offset="864">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/03-00-Frameworks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="889">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/img/03-07-Foundation.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -351,20 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="38" selection-start="0" selection-end="8517" vertical-scroll-proportion="-7.1923075" vertical-offset="1496" max-vertical-offset="4165">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="0" selection-end="1410" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
@@ -372,16 +313,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/views/02-03-02-JavaScript-samples.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="32" selection-start="2033" selection-end="2033" vertical-scroll-proportion="-19.5" vertical-offset="139" max-vertical-offset="1054">
+        <state line="39" column="20" selection-start="749" selection-end="749" vertical-scroll-proportion="0.5736783" vertical-offset="153" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/02-03-02-JavaScript-samples.html">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="20" selection-start="749" selection-end="749" vertical-scroll-proportion="0.5736783" vertical-offset="153" max-vertical-offset="1156">
+        <state line="38" column="32" selection-start="2033" selection-end="2033" vertical-scroll-proportion="0.57030374" vertical-offset="139" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="0" selection-end="1410" vertical-scroll-proportion="0.1721035" vertical-offset="0" max-vertical-offset="889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/presentation-config_old.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="38" selection-start="0" selection-end="8517" vertical-scroll-proportion="0.21034871" vertical-offset="1496" max-vertical-offset="4165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="77" selection-start="147" selection-end="147" vertical-scroll-proportion="0.03715847" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="363" column="27" selection-start="8682" selection-end="8687" vertical-scroll-proportion="0.46875" vertical-offset="5766" max-vertical-offset="6630">
           <folding />
         </state>
       </provider>
