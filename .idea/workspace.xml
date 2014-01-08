@@ -22,7 +22,44 @@
     <favorites_list name="HTML5-presentation" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="02-01-02-HTML5-samples.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/02-01-02-HTML5-samples.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="presentation-config.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="161" column="18" selection-start="6012" selection-end="6012" vertical-scroll-proportion="-50.73077" vertical-offset="1418" max-vertical-offset="4029">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="16" selection-start="3981" selection-end="3981" vertical-scroll-proportion="-17.538462" vertical-offset="938" max-vertical-offset="1615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="23" selection-start="292" selection-end="292" vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -32,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/02-01-02-HTML5-samples.html" />
-        <option value="$PROJECT_DIR$/app/views/06-03-Firebase.html" />
         <option value="$PROJECT_DIR$/app/views/00-Contact.html" />
         <option value="$PROJECT_DIR$/app/views/04-01-NodeJS.html" />
         <option value="$PROJECT_DIR$/app/views/04-02-Grunt.html" />
@@ -48,6 +83,8 @@
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/views/06-02-Java-Stack.html" />
         <option value="$PROJECT_DIR$/app/views/01-01-Google-trends.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/styles/main.scss" />
       </list>
     </option>
   </component>
@@ -282,13 +319,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30305287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30305287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -315,34 +352,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/04-02-Grunt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="86" selection-start="160" selection-end="160" vertical-scroll-proportion="0.065891474" vertical-offset="0" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="2" selection-start="338" selection-end="382" vertical-scroll-proportion="0.49418604" vertical-offset="0" max-vertical-offset="516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/04-03-Bower.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="28" selection-start="963" selection-end="963" vertical-scroll-proportion="0.8986083" vertical-offset="177" max-vertical-offset="748">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/04-04-Yo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="80" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0648855" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/04-05-01-CoffeeScript.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="341" selection-end="481" vertical-scroll-proportion="0.12662943" vertical-offset="136" max-vertical-offset="1241">
@@ -374,13 +383,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/04-07-Cordova.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="8" selection-start="849" selection-end="849" vertical-scroll-proportion="0.39851025" vertical-offset="296" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="1" selection-start="8196" selection-end="8196" vertical-scroll-proportion="2.8361266" vertical-offset="2404" max-vertical-offset="4029">
           <folding />
         </state>
       </provider>
@@ -423,6 +425,41 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/02-01-01-HTML5-overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/02-01-02-HTML5-samples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/presentation-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="18" selection-start="6012" selection-end="6012" vertical-scroll-proportion="-50.73077" vertical-offset="1418" max-vertical-offset="4029">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="16" selection-start="3981" selection-end="3981" vertical-scroll-proportion="-17.538462" vertical-offset="938" max-vertical-offset="1615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="23" selection-start="292" selection-end="292" vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
