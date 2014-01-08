@@ -22,17 +22,7 @@
     <favorites_list name="HTML5-presentation" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="191" column="6" selection-start="4811" selection-end="4811" vertical-scroll-proportion="0.36523438" vertical-offset="3060" max-vertical-offset="6664">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -42,9 +32,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/presentation-config_old.json" />
         <option value="$PROJECT_DIR$/app/views/02-01-02-HTML5-samples.html" />
-        <option value="$PROJECT_DIR$/app/views/06-02-Java-Stack.html" />
         <option value="$PROJECT_DIR$/app/views/06-03-Firebase.html" />
         <option value="$PROJECT_DIR$/app/views/00-Contact.html" />
         <option value="$PROJECT_DIR$/app/views/04-01-NodeJS.html" />
@@ -58,6 +46,8 @@
         <option value="$PROJECT_DIR$/app/views/04-07-Cordova.html" />
         <option value="$PROJECT_DIR$/app/presentation-config.json" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/app/views/06-02-Java-Stack.html" />
+        <option value="$PROJECT_DIR$/app/views/01-01-Google-trends.html" />
       </list>
     </option>
   </component>
@@ -292,13 +282,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30305287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30305287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -325,27 +315,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/03-01-jQuery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="0" selection-end="1034" vertical-scroll-proportion="0.42175573" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/04-06-00-CSS-Overlay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="542">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/04-01-NodeJS.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="8" selection-start="925" selection-end="925" vertical-scroll-proportion="0.5944334" vertical-offset="160" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/04-02-Grunt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="86" selection-start="160" selection-end="160" vertical-scroll-proportion="0.065891474" vertical-offset="0" max-vertical-offset="833">
@@ -430,9 +399,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/06-02-Java-Stack.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/01-01-Google-trends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="78" selection-start="207" selection-end="207" vertical-scroll-proportion="0.03244275" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="191" column="6" selection-start="4811" selection-end="4811" vertical-scroll-proportion="0.36523438" vertical-offset="3060" max-vertical-offset="6664">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
           <folding />
         </state>
       </provider>
